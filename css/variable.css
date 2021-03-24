@@ -1,0 +1,9 @@
+:root {
+  --yellow: #fae100;
+  --horizontal-space: 25px;
+  /* img,title space */
+  --img-text-space: 17px;
+
+  --bright-gray: rgba(0, 0, 0, 0.3);
+  --main-border: 1px solid rgba(0, 0, 0, 0.3);
+}
